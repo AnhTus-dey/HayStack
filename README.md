@@ -204,14 +204,17 @@ python scripts/run_benchmark.py --run_all --seed 42 --device cuda
 
 ## Star this repo if you find it useful!
 
+---
+
 ## Acknowledgments
 
 - COCO dataset: [https://cocodataset.org](https://cocodataset.org)
 - DINO/DINOv2: [facebookresearch/dino](https://github.com/facebookresearch/dino)
 - CLIP: [openai/CLIP](https://github.com/openai/CLIP)
-```
+
 
 ---
+
 
 
 
