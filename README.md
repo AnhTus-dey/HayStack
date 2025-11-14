@@ -204,15 +204,6 @@ python scripts/run_benchmark.py --run_all --seed 42 --device cuda
 
 ## Star this repo if you find it useful!
 
----
-
-**Ready to cite in your paper?** Just add:
-
-> Our code is publicly available at:  
-> [https://github.com/yourname/HayStack](https://github.com/yourname/HayStack)
-
----
-
 ## Acknowledgments
 
 - COCO dataset: [https://cocodataset.org](https://cocodataset.org)
@@ -221,5 +212,6 @@ python scripts/run_benchmark.py --run_all --seed 42 --device cuda
 ```
 
 ---
+
 
 
