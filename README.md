@@ -6,8 +6,7 @@
 
 
 > **HayStack** is a **parameter-free, zero-shot to few-shot adaptive classifier** that builds a **hybrid subspace** from **K reference images** (K=0→16) and a **learned prior** using **pyramid pooling** and **ResNet18**, **DINO**, **DINOv2**, **CLIP**, and **ViT** backbones.
-
-**Paper**: 
+ 
 **Code**: `https://github.com/AnhTus-dey/HayStack.git`  
 **Demo**: `scripts/run_benchmark.py`
 
@@ -214,6 +213,7 @@ python scripts/run_benchmark.py --run_all --seed 42 --device cuda
 
 
 ---
+
 
 
 
