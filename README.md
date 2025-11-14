@@ -166,34 +166,6 @@ python -c "import torch; torch.manual_seed(42); import numpy as np; np.random.se
 python scripts/run_benchmark.py --run_all --seed 42 --device cuda
 ```
 
-> **100% deterministic** on same hardware.
-
----
-
-## Results (Example)
-
-| Method | K | F1 | Acc | FPS | Dim |
-|-------|:--:|:--:|:---:|:---:|:---:|
-| **HayStack (ResNet18)** | 5 | **92.3%** | **91.8%** | 285 | 112 |
-| HayStack (DINOv2) | 5 | 93.1% | 92.5% | 180 | 128 |
-| CLIP | 0 | 88.1% | 87.5% | 94 | 512 |
-| DINO | 8 | 85.6% | 84.2% | 210 | 768 |
-| ProtoNet | 8 | 83.4% | 82.1% | 320 | 512 |
-
----
-
-## Citation
-
-```bibtex
-@article{yourname2025haystack,
-  title={HayStack: Zero-Shot to Few-Shot Adaptive Visual Classification via Hybrid Subspace Learning},
-  author={Your Name and Co-Author},
-  journal={arXiv preprint arXiv:2503.XXXXX},
-  year={2025}
-}
-```
-
----
 
 ## License
 
@@ -213,6 +185,7 @@ python scripts/run_benchmark.py --run_all --seed 42 --device cuda
 
 
 ---
+
 
 
 
