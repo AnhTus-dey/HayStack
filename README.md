@@ -3,14 +3,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org)
-[![arXiv](https://img.shields.io/badge/arXiv-2503.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
-[![DOI](https://img.shields.io/badge/DOI-10.XXXX/XXXXX-green)](https://doi.org/XXXXX)
+
 
 > **HayStack** is a **parameter-free, zero-shot to few-shot adaptive classifier** that builds a **hybrid subspace** from **K reference images** (K=0→16) and a **learned prior** using **pyramid pooling** and **ResNet18**, **DINO**, **DINOv2**, **CLIP**, and **ViT** backbones.
 
-**Paper**: [arXiv:2503.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)  
-**Code**: `https://github.com/yourname/HayStack`  
-**Demo**: `scripts/run_benchmark.py` | `demo/zeroshot_demo.ipynb`
+**Paper**: 
+**Code**: `https://github.com/AnhTus-dey/HayStack.git`  
+**Demo**: `scripts/run_benchmark.py`
 
 ---
 
@@ -31,7 +30,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/HayStack.git
+git clone https://github.com/AnhTus-dey/HayStack.git
 cd HayStack
 pip install -e ".[clip]"   # Includes CLIP (optional)
 ```
@@ -222,4 +221,5 @@ python scripts/run_benchmark.py --run_all --seed 42 --device cuda
 ```
 
 ---
+
 
