@@ -296,8 +296,8 @@ Threshold selected via Youden's J-statistic on a held-out validation split
              for Edge Multimedia Recognition},
   author  = {Nguyen, Tu Anh and Nguyen, Huy Hoang and Nguyen, Vinh Dinh},
   journal = {Engineering Research Express},
-  year    = {2025},
-  note    = {Under review}
+  year    = {2026},
+  note    = {Accepted}
 }
 ```
 
