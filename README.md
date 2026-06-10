@@ -9,7 +9,7 @@
 > **hybrid subspace** from **K reference images** (K=0--16) using **pyramid pooling** and
 > **ResNet18**, **DINO**, **DINOv2**, **CLIP**, and **ViT** backbones.
 
-**Paper**: *HayStack: When Classical Closed-Form Methods Match Large Pretrained Models for Edge Multimedia Recognition*, Engineering Research Express (under review)  
+**Paper**: *HayStack: When Classical Closed-Form Methods Match Large Pretrained Models for Edge Multimedia Recognition*, Engineering Research Express
 **Code**: `https://github.com/AnhTus-dey/HayStack.git`  
 **Demo**: `scripts/run_benchmark.py`
 
